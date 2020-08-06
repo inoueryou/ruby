@@ -1,0 +1,37 @@
+Last login: Tue Jul 28 17:25:22 on ttys000
+MA4-0078:~ owner$ cd Desktop
+MA4-0078:Desktop owner$ ruby type.rb
+5
+5
+MA4-0078:Desktop owner$ ruby type.rb
+8
+5 + 3
+53
+MA4-0078:Desktop owner$ ruby name.rb
+Iamsam
+MA4-0078:Desktop owner$ ruby name.rb
+Iamsam
+samの年齢は27です
+MA4-0078:Desktop owner$ ruby name.rb
+Iamsam
+samの年齢は27です
+300
+MA4-0078:Desktop owner$ lesson2.rd
+-bash: lesson2.rd: command not found
+MA4-0078:Desktop owner$ ruby lesson2.rb
+私の名前はメンター太郎です。年齢は24です。
+MA4-0078:Desktop owner$ ruby length.rb
+7
+MA4-0078:Desktop owner$ ruby length.rb
+7
+PMACBEW
+MA4-0078:Desktop owner$ ruby length.rb
+true
+MA4-0078:Desktop owner$ ruby length.rb
+true
+MA4-0078:Desktop owner$ ruby lesson3.rb
+
+
+WEBCAMP
+MA4-0078:Desktop owner$ ruby hello.rb
+
